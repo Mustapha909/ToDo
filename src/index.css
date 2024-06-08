@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-gray-700 text-sky-700 max-w-screen-sm mx-auto p-4;
+}
